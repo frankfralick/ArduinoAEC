@@ -1,3 +1,11 @@
+"""
+Python 2.7
+Frank Fralick
+
+This example code illustrates how to access values sent from Arduino over 
+serial port within a Rhino Python script.  
+"""
+
 import rhinoscriptsyntax as rs
 import scriptcontext as rsc
 import serial
