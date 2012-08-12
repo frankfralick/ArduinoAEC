@@ -15,3 +15,13 @@ Python 2.7 - For interfacing with platforms like Rhino and Revit, you don't nece
 
 PythonWin - Python for Windows utilities from Mark Hammond.
 
+Example Usage Videos on YouTube:
+================================
+
+Inventor Example:
+http://youtu.be/8mk1e9FzkjM
+
+Rhino Example:
+http://youtu.be/OrHF38gKklQ
+
+
