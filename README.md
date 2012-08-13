@@ -13,7 +13,7 @@ PySerial - This Python package is used for handling serial communication between
 
 Python 2.7 - For interfacing with platforms like Rhino and Revit, you don't necessarily need this since these rely on IronPython.  If you want to use a windows installer, however, you will need the regular distribution of Python.
 
-PythonWin - Python for Windows utilities from Mark Hammond.
+PythonWin - Python for Windows utilities from Mark Hammond.  This is only required for the Inventor example.
 
 Example Usage Videos on YouTube:
 ================================
